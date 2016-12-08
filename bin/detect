@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-echo "GSL 1.15"
+echo "GSL 2.1"
 exit 0
