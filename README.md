@@ -6,6 +6,7 @@ Here are the buildpack for the corresponding versions:
 
 - git://github.com/gregory/heroku-gsl-buildpack.git#gsl-1.15
 - git://github.com/gregory/heroku-gsl-buildpack.git#gsl-1.16
+- git://github.com/gregory/heroku-gsl-buildpack.git#gsl-2.1
 
 ## How?
 
@@ -13,7 +14,7 @@ Here are the buildpack for the corresponding versions:
 
 ex:
 ```sh
-heroku buildpacks:set git://github.com/gregory/heroku-gsl-buildpack.git#gsl-1.16
+heroku buildpacks:set git://github.com/gregory/heroku-gsl-buildpack.git#gsl-2.1
 
 ```
 

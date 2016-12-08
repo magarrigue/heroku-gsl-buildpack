@@ -8,3 +8,8 @@
 	url = https://github.com/gregory/heroku-buildpack-ruby
   ignore = all
 	branch = gsl-1.16-ruby
+[submodule "gsl-2.1-ruby"]
+  path = gsl-2.1-ruby
+  url = https://github.com/gregory/heroku-buildpack-ruby
+  ignore = all
+  branch = gsl-2.1-ruby
